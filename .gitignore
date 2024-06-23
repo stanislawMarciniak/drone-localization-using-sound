@@ -1,3 +1,3 @@
 .venv
-*.wav
-__pycache__
+#*.wav
+__pychache__
